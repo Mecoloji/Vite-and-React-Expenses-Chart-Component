@@ -1,0 +1,24 @@
+.balance-box {
+    position: relative;
+    display: flex;
+    background: var(--soft-red);
+    padding: 1.25rem;
+    border-radius: .75rem;
+    margin: 1.125rem 1rem;
+    width: 28rem;
+    font-size: .85rem;
+}
+
+.balance-box p {
+    font-size: .9rem;
+    padding-bottom: .5rem;
+}
+
+.balance-box img {
+    margin: 0 0 0 auto;
+    width: 3.75rem;
+}
+
+.balance-total {
+    color: var(--cream);
+}
